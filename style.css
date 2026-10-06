@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.hero {
+    padding: 30px;
+}
+
+.card-box {
+    transition: 0.3s;
+}
+
+.card-box:hover {
+    transform: translateY(-5px);
+}
+
+footer {
+    padding-top: 20px;
+}
